@@ -1,9 +1,4 @@
 # nervos-hackerthon
 
-## GitCoin 1
-
-[a relative link](Gitcoin%200/Readme.md)
-
-## GitCoin 1
-
-[a relative link](Gitcoin%201/Readme.md)
+[GitCoin 0](Gitcoin%200/Readme.md)
+[GitCoin 1](Gitcoin%201/Readme.md)
