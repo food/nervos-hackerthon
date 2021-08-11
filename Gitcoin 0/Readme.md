@@ -1,4 +1,4 @@
-# Nervos Hackerthon - Gitcoin 1
+# Nervos Hackerthon - Gitcoin 0
 
 Indexer
 ![Indexer](ckb_01.PNG)
