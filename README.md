@@ -11,3 +11,5 @@
 [GitCoin 4](Gitcoin%204/Readme.md)
 <br/>
 [GitCoin 5](Gitcoin%205/Readme.md)
+<br/>
+[GitCoin 6](Gitcoin%206/Readme.md)
