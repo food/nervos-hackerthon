@@ -1,4 +1,4 @@
-# Nervos Hackerthon - Gitcoin 6
+# Nervos Hackerthon - Gitcoin 7
 
 1. Screenshots or video of your application running on Godwoken.
 ![-](ckb_01.gif)
@@ -8,7 +8,7 @@ https://github.com/food/hangmanOnNervos
 ```
 3. If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract. (Provide all in text format.)
 
-Transaction hash: ```0x962f3cbca4379eddc28488d3a921c6f6b6fbb44f4303e1dbf487beaaa76b9222```
+Transaction hash: ```0x962f3cbca4379eddc28488d3a921c6f6b6fbb44f4303e1dbf487beaaa76b9222```<br/>
 Deployed contract address: ```0xbb7d017ab5Ad5C5646f045EC73ffdFE6e3f976F7```
 
 ABI:
