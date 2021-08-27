@@ -1,7 +1,7 @@
 # Nervos Hackerthon - Gitcoin 8
 
 1. A screenshot or video of your EVM application on Layer 2 with Force Bridge support.
-![-](ckb_01.png)
+![-](ckb_01.PNG)
 2. The address of the SUDT-ERC20 Proxy Contract that you deployed (in text format).
 ```
 0xDA17C57FEb42743D16F137D0cCb28c03baaebAf9
